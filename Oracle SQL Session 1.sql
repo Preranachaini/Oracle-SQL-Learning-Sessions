@@ -1,3 +1,5 @@
+-- Oracle SQL tutorial for beginners, how to create a table in SQL, alter a table in SQL 
+
 select * from employees;
 
 drop table customer;
